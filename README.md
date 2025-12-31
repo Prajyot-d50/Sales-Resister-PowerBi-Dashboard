@@ -24,17 +24,19 @@ Copy code
 └── README.md
 📈 Key KPIs
 🔹 Sales Dashboard
-Total Sales: ₹69.2M
-Total Invoices: 474
-Total Quantity Sold: 129,727
-Average Invoice Value: ₹146,043
-Invoice Lead Time: 54 Days
-Total Tax Collected: ₹10.1M
+-Total Sales: ₹69.2M
+-Total Invoices: 474
+-Total Quantity Sold: 129,727
+-Average Invoice Value: ₹146,043
+-Invoice Lead Time: 54 Days
+-Total Tax Collected: ₹10.1M
+
 🔹 Order Tracking Dashboard
-Total Order Value: ₹59.1M
-Total Orders: 223
-Average Order Value: ₹265,053
-Order Lead Time: 53.7 Days
+-Total Order Value: ₹59.1M
+-Total Orders: 223
+-Average Order Value: ₹265,053
+-Order Lead Time: 53.7 Days
+
 🔍 Key Insights
 💰 Sales Insights
 Gujarat, Maharashtra, and Karnataka are the top-performing states, with Gujarat contributing ~₹38M in sales.
